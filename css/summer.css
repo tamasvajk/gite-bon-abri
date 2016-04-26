@@ -5,10 +5,11 @@
     }
 }
 
-.img-responsive {
-    margin: auto;
-}
-
 h1 {
     padding-top: 80px;
+}
+
+.img-responsive {
+    margin: auto;
+    border: 2px solid #E81B00;
 }

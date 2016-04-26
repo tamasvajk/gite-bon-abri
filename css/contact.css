@@ -1,0 +1,33 @@
+p.first{
+    margin-top: 20px;
+}
+
+@media (min-width: 768px)
+{
+    header {
+        min-height: 450px;
+    }
+    p.first{
+        margin-top: 0;
+    }
+}
+
+.img-responsive {
+    margin: auto;
+    border: 2px solid #E81B00;
+}
+
+iframe {
+    margin: auto;
+    border: 2px solid #E81B00;
+}
+
+h1 {
+    padding-top: 80px;
+}
+
+li {
+   font-size: 16px; 
+   list-style: none;
+}
+
